@@ -12,7 +12,7 @@ Emotion Detection Metrics: Displays a log of user inputs, including timestamps, 
 
 Visualizations: Shows bar charts and pie charts to show the number of page visits and the number of emotions predicted.
 
-The "About Page" provides information about the application, its function, and any other information you would like to make available to users. The main framework for creating the user interface and 
+The **"About Page"** provides information about the application, its function, and any other information you would like to make available to users. The main framework for creating the user interface and 
 interactivity of a web application is called Streamlit.
 
 The database system that is used to store and retrieve information about page visits and emotion detection metrics is called SQLite. The backend of the application, which includes text processing, machine 
@@ -20,9 +20,9 @@ learning, and data analysis, is programmed in Python.
 
 Natural language processing (NLP) is likely the foundation of the machine learning model used to predict emotions from text inputs. Prediction probabilities and other parameters are presented visually using the data visualization tools Altair and Plotly. Joblib: Used to load a machine learning model that has already been trained.
 
-How It Works: Text sent into the input field on the home page is how users communicate with the Emotion Detection App. In order to anticipate the emotion related to the input, the program then analyzes the text using a machine learning model. The results of the prediction are shown, along with the expected mood, an emoji representation, and a confidence level. Users can also look through the metrics and visualizations on the Monitor page to obtain information about user interactions and predicted emotions.
+**How It Works**: Text sent into the input field on the home page is how users communicate with the Emotion Detection App. In order to anticipate the emotion related to the input, the program then analyzes the text using a machine learning model. The results of the prediction are shown, along with the expected mood, an emoji representation, and a confidence level. Users can also look through the metrics and visualizations on the Monitor page to obtain information about user interactions and predicted emotions.
 
-Use Cases:
+**Use Cases:**
 
 Sentiment Analysis: Text data can be subjected to an analysis of sentiment or emotion that allows users to better comprehend customer reviews, social media sentiment, and other aspects of text data. 
 
